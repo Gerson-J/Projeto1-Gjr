@@ -1,2 +1,2 @@
 # Projeto1-Gjr
-Calculadora de 4 operações em Python
+Calculadora de 4 operações em Python.
