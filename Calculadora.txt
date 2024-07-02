@@ -1,6 +1,6 @@
 #Calculadora de 4 operação
-numero1=float(input("Digite o primeiro número"))
-numero2=float(input("Digite o segundo número"))
+numero1=float(input("Digite o primeiro número:"))
+numero2=float(input("Digite o segundo número:"))
 operacao=input("Digite a operação desejada(+,-,*ou/):")
 
 if operacao=='+':
@@ -18,4 +18,4 @@ elif operacao=='/':
 else:
     resultado="Operação inválida. Por favor, escolha entre +,-,*ou/"
     
-print(f"O resultado da operação {operacao} é:{resultado}.")
+print(f"O resultado da operação {operacao} é: {resultado}.")
