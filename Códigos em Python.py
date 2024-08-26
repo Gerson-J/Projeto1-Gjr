@@ -112,7 +112,7 @@ else:
 
 
 
-#Crie um programa que peça 5 números inteiros e apresente: a média, o maior e o menor'.
+#Crie um programa que peça 5 números inteiros e apresente: a média, o maior e o menor.
 numeros = []
 for i in range(5):
     numero = float(input(f"Digite o {i+1}° número: "))
