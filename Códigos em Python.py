@@ -87,7 +87,7 @@ print(f"O maior número é:{maior_numero}")
 
 
 
-#Leia um número inteiro e mostre uma mensagem indicando se este número é par ou ímpar e se é positivo ou negativo.
+#Leia um número inteiro e mostre uma mensagem indicando se este número é par ou ímpar e se é positivo ou negativo'.
 numero=int(input("Digite um número inteiro:"))
 
 if numero%2==0:
