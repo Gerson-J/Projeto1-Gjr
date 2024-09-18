@@ -1,4 +1,4 @@
-#Calculadora de 4 operação'.
+#Calculadora de 4 operação'
 numero1=float(input("Digite o primeiro número:"))
 numero2=float(input("Digite o segundo número:"))
 operacao=input("Digite a operação desejada(+,-,*ou/):")
